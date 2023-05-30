@@ -1,0 +1,40 @@
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\Database1.mdf
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\Database1_log.ldf
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\DataBase-Unieversity-System.exe.config
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\DataBase-Unieversity-System.exe
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\DataBase-Unieversity-System.pdb
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.AssemblyReference.cache
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.AddStudent.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.EditStudent.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Form1.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Properties.Resources.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Student.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.GenerateResource.cache
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.CoreCompileInputs.cache
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.exe
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.pdb
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.DeleteStudent.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Teacher.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.AddTeacher.resources
+C:\Users\Motri\Desktop\College\Tamrin C#\WindowsFormsApp\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.DeleteTeacher.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\Database1.mdf
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\Database1_log.ldf
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\DataBase-Unieversity-System.exe.config
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\DataBase-Unieversity-System.exe
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\bin\Debug\DataBase-Unieversity-System.pdb
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.AssemblyReference.cache
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.AddStudent.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.AddTeacher.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.DeleteStudent.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.DeleteTeacher.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.EditStudent.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Form1.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Properties.Resources.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Student.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase_Unieversity_System.Teacher.resources
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.GenerateResource.cache
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.csproj.CoreCompileInputs.cache
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.exe
+C:\Users\Motri\Documents\GitHub\DataBase-Unieversity-System\DataBase-Unieversity-System\obj\Debug\DataBase-Unieversity-System.pdb
